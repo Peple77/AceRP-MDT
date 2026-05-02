@@ -3,6 +3,11 @@ MDT Script for RSG Framework on RedM using ox_lib.
 
 **For support and suggestions join the discord: https://discord.gg/NBcXdtD2XZ**
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/001fa451-8281-4710-8da3-8eded213ce17" />
+More Previews: https://imgur.com/a/RtPkjMb
+
+---
+
 **Features:**
 - Automatically syncs all players profiles
 - Search Profiles (Can search with firstname, lastname, or their CID)
