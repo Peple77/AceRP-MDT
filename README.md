@@ -22,6 +22,13 @@ More Previews: https://imgur.com/a/RtPkjMb
 - [ox_lib](https://github.com/Rexshack-RedM/ox_lib)
 - [ox_target](https://github.com/Rexshack-RedM/ox_target)
 
+**Installation:**
+- Download from the release
+- Drag and drop into server
+- ensure acerp-mdt in server config
+- Run mdt.sql in database
+- Restart Server
+
 **Usage:**
 - /mdt (Default command, you can change it in the config)
 - ox_target interaction at any law station (Can change locations in config)
