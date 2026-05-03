@@ -23,7 +23,7 @@ More Previews: https://imgur.com/a/RtPkjMb
 - [ox_target](https://github.com/Rexshack-RedM/ox_target)
 
 **Installation:**
-- Download from the release
+- Clone Repository
 - Remove the -main from acerp-mdt-main
 - Drag and drop into server
 - ensure acerp-mdt in server config
