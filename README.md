@@ -24,6 +24,7 @@ More Previews: https://imgur.com/a/RtPkjMb
 
 **Installation:**
 - Download from the release
+- Remove the -main from acerp-mdt-main
 - Drag and drop into server
 - ensure acerp-mdt in server config
 - Run mdt.sql in database
